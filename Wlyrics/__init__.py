@@ -1,1 +1,1 @@
-from testpip.lyrics import ly
+from Wlyrics.lyrics import ly
